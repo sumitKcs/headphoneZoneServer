@@ -349,5 +349,17 @@
       "comment": "I would say, till date, if something has put a big smile on my face, then it's the service and work ethics of the whole team of Headphone Zone.",
       "rating": 5
     }
-  ]
+  ],
+  "menu": ["On Sale", "Categories", "Brands", "Price", "Info"],
+  "mobile_menu": ["On Sale", "Categories", "Brands", "Price", "Info"],
+  "categories": [
+    "Headphones",
+    "In-Ears",
+    "Wireless",
+    "FACs & Amps",
+    "Hi-Res Audio Players",
+    "Accesssories",
+    "Home Audio"
+  ],
+  "deal": "On Sale"
 }
